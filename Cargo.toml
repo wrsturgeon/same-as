@@ -1,0 +1,11 @@
+[package]
+name = "same-as"
+version = "1.0.0"
+authors = ["Will Sturgeon <willstrgn@gmail.com>"]
+edition = "2021"
+description = "Type equality in stable Rust."
+license = "LGPL-3.0-or-later"
+repository = "https://github.com/wrsturgeon/same-as"
+readme = "README.md"
+keywords = ["types", "proofs", "math", "logic", "metaprogramming"]
+categories = ["mathematics", "no-std", "algorithms", "compilers", "data-structures"]
